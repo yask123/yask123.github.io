@@ -19,7 +19,7 @@ export default function Index() {
           <h1>
             Hi, I'm Yask<span className="fancy">.</span>
           </h1>
-          <h2>Software Engineer @Shopify.</h2>
+          <p>I design, build, and ship software that makes this world a better place.</p>
           <SocialList />
         </div>
         </div>
